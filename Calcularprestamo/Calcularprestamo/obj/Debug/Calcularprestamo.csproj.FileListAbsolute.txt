@@ -1,0 +1,10 @@
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\Calcularprestamo\Calcularprestamo\bin\Debug\Calcularprestamo.exe.config
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\Calcularprestamo\Calcularprestamo\bin\Debug\Calcularprestamo.exe
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\Calcularprestamo\Calcularprestamo\bin\Debug\Calcularprestamo.pdb
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\Calcularprestamo\Calcularprestamo\obj\Debug\Calcularprestamo.csproj.AssemblyReference.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\Calcularprestamo\Calcularprestamo\obj\Debug\Calcularprestamo.Form1.resources
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\Calcularprestamo\Calcularprestamo\obj\Debug\Calcularprestamo.Properties.Resources.resources
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\Calcularprestamo\Calcularprestamo\obj\Debug\Calcularprestamo.csproj.GenerateResource.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\Calcularprestamo\Calcularprestamo\obj\Debug\Calcularprestamo.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\Calcularprestamo\Calcularprestamo\obj\Debug\Calcularprestamo.exe
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\Calcularprestamo\Calcularprestamo\obj\Debug\Calcularprestamo.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\CalcularCapital\CalcularCapital\bin\Debug\CalcularCapital.exe.config
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\CalcularCapital\CalcularCapital\bin\Debug\CalcularCapital.exe
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\CalcularCapital\CalcularCapital\bin\Debug\CalcularCapital.pdb
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\CalcularCapital\CalcularCapital\obj\Debug\CalcularCapital.csproj.AssemblyReference.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\CalcularCapital\CalcularCapital\obj\Debug\CalcularCapital.Form1.resources
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\CalcularCapital\CalcularCapital\obj\Debug\CalcularCapital.Properties.Resources.resources
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\CalcularCapital\CalcularCapital\obj\Debug\CalcularCapital.csproj.GenerateResource.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\CalcularCapital\CalcularCapital\obj\Debug\CalcularCapital.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\CalcularCapital\CalcularCapital\obj\Debug\CalcularCapital.exe
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\LARATORIO6\CalcularCapital\CalcularCapital\obj\Debug\CalcularCapital.pdb
